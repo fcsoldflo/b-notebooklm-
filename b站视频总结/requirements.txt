@@ -1,0 +1,5 @@
+gradio>=5.0.0
+notebooklm-py>=0.7.0
+openai-whisper>=20250625
+torch
+zhconv>=1.4.3

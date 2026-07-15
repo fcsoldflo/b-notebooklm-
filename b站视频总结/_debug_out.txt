@@ -1,0 +1,5 @@
+returncode=0
+lines=['E:\\b站视频总结\\output\\audio\\言语理解与表达基础理论（2026年版）——阿里木江（国省考、事业单位、选调三支通用） p04 言语理论第4节——阿里木江 [BV1HsdMBeEzY_p4].mp3']
+last=E:\b站视频总结\output\audio\言语理解与表达基础理论（2026年版）——阿里木江（国省考、事业单位、选调三支通用） p04 言语理论第4节——阿里木江 [BV1HsdMBeEzY_p4].mp3
+exists=True
+stderr=
